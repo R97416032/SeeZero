@@ -13,17 +13,31 @@ def readData(path):
 
 
 def count4each(data):
-    counts = np.zeros((len(set(data.values[:, 0])) + 1))
-    index = [[] for i in range(len(counts))]
+    #因为有11个类别和1个未分类，需要对现有的标签进行类别修改
+    #这里读取美俄个类别对应的标号
+    f = open("clusterindex.txt")
+    lines = f.readlines()
+    f.close()
+    clusterindex = []
+    for line in lines:
+        temp1 = line.strip("\n")
+        temp2 = temp1.split(',')
+        temp2 = [int(i) for i in temp2]
+        clusterindex.append(temp2)
+    counts = np.zeros(len(clusterindex))
+    eachindex = [[] for i in range(len(counts))]
 
     for i in range(data.values.shape[0]):
-        index[data.values[i, 0]].append(i)
-        counts[data.values[i, 0]] += 1
+        for index,j in enumerate(clusterindex):
+            if data.values[i, 0] in j:
+                eachindex[index].append(i)
+                counts[index] += 1
+                break
     f = open("data/eachnum.txt", "w")
     for count in counts:
         f.write(str(int(count)) + '\n')
     f.close()
-    return counts, index
+    return counts, eachindex
 def sumExinEach(index,data):
     sumexpression=np.ndarray(shape=(len(index),data.shape[1]))
     for i in range(1,len(index)):
