@@ -1,0 +1,13 @@
+none
+Excitatory neuron
+Interneuron
+Neural Stem
+Neural Progenitors
+Neuroblasts
+Endothelial
+Astrocytes
+Oligodendrocytes
+Microglia
+Ependymal
+Oligo Precursor
+unannotated
