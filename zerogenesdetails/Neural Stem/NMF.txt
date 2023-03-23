@@ -1,0 +1,13 @@
+nuclease activity, hydrolase activity acting on ester bonds, hydrolase activity
+, identical protein binding, protein binding, binding
+, lactate transmembrane transporter activity, organic hydroxy compound transmembrane transporter activity, monocarboxylic acid transmembrane transporter activity
+, endonuclease activity, nuclease activity, hydrolase activity acting on ester bonds
+, '-' RNA helicase activity, RNA helicase activity, ATP-dependent activity acting on RNA
+, bicarbonatemonoatomic anion antiporter activity, chloridebicarbonate antiporter activity, hemoglobin binding
+, GTPase activator activity, GTPase regulator activity, nucleoside-triphosphatase regulator activity
+, protein C-terminus binding, protein binding, binding
+, cytoskeletal anchor activity, G-protein alpha-subunit binding, actin filament binding
+, DNA-binding transcription factor activity RNA polymerase II-specific, RNA polymerase II cis-regulatory region sequence-specific DNA binding, cis-regulatory region sequence-specific DNA binding
+, DNA-binding transcription factor activity RNA polymerase II-specific, DNA-binding transcription factor activity, RNA polymerase II transcription regulatory region sequence-specific DNA binding
+, DNA-directed DNA polymerase activity, DNA polymerase activity, damaged DNA binding
+, molecular_function

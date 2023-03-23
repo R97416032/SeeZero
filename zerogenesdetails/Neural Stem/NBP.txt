@@ -1,0 +1,13 @@
+locomotory exploration behavior, exploration behavior, locomotory behavior
+, protein export from nucleus, nuclear export, nucleocytoplasmic transport
+, monocarboxylic acid transport, carboxylic acid transport, organic anion transport
+, maturation of LSU-rRNA, maturation of .S rRNA, ribosomal large subunit biogenesis
+, regulation of transposition, RNA-mediated, negative regulation of transposition, RNA-mediated, miRNA-mediated gene silencing by mRNA destabilization
+, pH elevation, regulation of glycolytic process through fructose--phosphate, negative regulation of glycolytic process through fructose--phosphate
+, regulation of actin filament polymerization, regulation of actin polymerization or depolymerization, regulation of actin filament length
+, centriole-centriole cohesion, positive regulation of non-motile cilium assembly, regulation of non-motile cilium assembly
+, protein localization to microtubule plus-end, protein localization to microtubule end, regulation of cilium beat frequency involved in ciliary motility
+, regulation of transcription by RNA polymerase II, anatomical structure morphogenesis, regulation of DNA-templated transcription
+, anterior mesonephric tubule development, specification of mesonephric tubule identity, specification of anterior mesonephric tubule identity
+, nucleotide-excision repair, DNA gap filling, error-prone translesion synthesis, translesion synthesis
+, embryonic liver development, embryonic hemopoiesis, ventricular system development

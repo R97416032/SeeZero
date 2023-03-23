@@ -1,0 +1,5 @@
+ melanosome localization;, pigment granule localization;, melanocyte differentiation
+, positive regulation of type B pancreatic cell development;, type B pancreatic cell maturation;, regulation of type B pancreatic cell development
+, lymph node development;, positive regulation of cytokinesis;, positive regulation of cell division
+, early endosome to recycling endosome transport;, uropod organization;, thymocyte migration
+, negative regulation of platelet aggregation;, negative regulation of platelet activation;, negative regulation of homotypic cell-cell adhesion

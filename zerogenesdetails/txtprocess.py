@@ -1,0 +1,12 @@
+import re
+f= open("Neural Stem/NMFch.txt",encoding="utf-8",mode='r')
+text=f.read()
+f.close()
+print(text)
+text=re.sub(r'[0-9,;,:,：,；]',"",text)
+print(text)
+text=re.sub(r'GO',",",text)
+print(text)
+f= open("Neural Stem/NMFch.txt",encoding="utf-8",mode='w')
+f.write(text)
+f.close()

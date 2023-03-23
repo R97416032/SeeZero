@@ -1,0 +1,5 @@
+myosin V binding, microtubule plus-end binding, myosin binding
+, DNA-binding transcription factor activity, RNA polymerase II-specific, RNA polymerase II cis-regulatory region sequence-specific DNA binding, cis-regulatory region sequence-specific DNA binding
+, C-X-C chemokine receptor activity, G protein-coupled chemoattractant receptor activity, chemokine receptor activity
+, myosin heavy chain binding, actin monomer binding, phosphatidylinositol -kinase binding
+, metalloendopeptidase activity, metallopeptidase activity, endopeptidase activity
